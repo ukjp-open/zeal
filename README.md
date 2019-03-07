@@ -1,5 +1,5 @@
 # MZeal
-Mac Zeal - Zeal is a simple offline documentation browser inspired by [Dash](https://kapeli.com/dash).
+Mac Zeal a port of - Zeal is a simple offline documentation browser inspired by [Dash](https://kapeli.com/dash).
 
 ![Screenshot](https://i.imgur.com/qBkZduS.png)
 
